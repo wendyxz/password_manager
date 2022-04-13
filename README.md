@@ -3,7 +3,7 @@ A password manager app that can generate and save random passwords 📝
 
 Enter an email / password combination for a website and press add to save the data in the json file.
 
-To generate a random password for a new account, drag the bars to select password composition, and click generate password. The generated password will fill the password box and also be copied to the clipboard. The data will be saved in the json file.
+To generate a highly random and secured password for a new account, drag the bars to select password composition, and click generate password. The generated password will fill the password box and also be copied to the clipboard, ready to be pasted into the browser. The data will be saved in the json file.
 
 Interface created using Tkinter.
 
